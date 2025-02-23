@@ -18,6 +18,13 @@
     animation: fadeIn 3s;
 }
 
+.explore-menu{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
 .header-contents h2{
     font-weight: 500;
     color: white;
